@@ -7,6 +7,7 @@ Presently, my expertise has evolved towards material characterization. I am deep
 
 -Parametric Design of TPMS structures
 -G code generation for scaffold structures
+
 In the realm of experimental characterization, I have engineered the following codes. While computer vision-based algorithms can find application in various contexts, my specific focus has been on the Direct Impact Hopkinson Bar, where a 2-measuring point wave separation algorithm is employed:
 
 -2D Digital Image Correlation algorithm
