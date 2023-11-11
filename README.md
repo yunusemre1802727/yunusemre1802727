@@ -12,5 +12,5 @@ Presently, my expertise has evolved towards material characterization. I am deep
 
 In the realm of experimental characterization, I have engineered the following codes. While computer vision-based algorithms can find application in various contexts, my specific focus has been on the Direct Impact Hopkinson Bar, where a 2-measuring point wave separation algorithm is employed:
 
--2D Digital Image Correlation algorithm                         
--2 Measuring point wave separation algorithm for DIHB
+- 2D Digital Image Correlation algorithm                         
+- 2 Measuring point wave separation algorithm for DIHB
