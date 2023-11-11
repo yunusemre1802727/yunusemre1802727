@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**yunusemre1802727/yunusemre1802727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello 👋, I'm Emre from Turkey, currently residing and working in Slovenia as a researcher at the University of Maribor, Faculty of Mechanical Engineering. Concurrently, I am pursuing my Ph.D. In the initial phase of my career, I served as a precision mechanical design engineer.
 
-Here are some ideas to get you started:
+During my master's studies, I focused on the construction of a high-precision Additive Manufacturing Machine, showcasing my dedication to pushing the boundaries of engineering. My passion lies in the  design and construction of electro-mechanical systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Presently, my expertise has evolved towards material characterization. I am deeply involved in the design and characterization of metamaterials, specifically tailored for applications in crash shock absorbance. To facilitate their parametric design, I have developed Python codes for:
+
+-Parametric Design of TPMS structures
+-G code generation for scaffold structures
+In the realm of experimental characterization, I have engineered the following codes. While computer vision-based algorithms can find application in various contexts, my specific focus has been on the Direct Impact Hopkinson Bar, where a 2-measuring point wave separation algorithm is employed:
+
+-2D Digital Image Correlation algorithm
+-2 Measuring point wave separation algorithm for DIHB
