@@ -7,7 +7,7 @@ During my master's studies, I focused on the construction of a high-precision Ad
 
 Presently, my expertise has evolved towards material characterization. I am deeply involved in the design and characterization of metamaterials, specifically tailored for applications in crash shock absorbance. To facilitate their parametric design, I have developed Python codes for:
 
-<Parametric Design of TPMS structures \>
+Parametric Design of TPMS structures /
 <G code generation for scaffold structures \>
 
 In the realm of experimental characterization, I have engineered the following codes. While computer vision-based algorithms can find application in various contexts, my specific focus has been on the Direct Impact Hopkinson Bar, where a 2-measuring point wave separation algorithm is employed:
