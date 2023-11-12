@@ -1,5 +1,5 @@
 
-Hello 👋, I'm Emre from Turkey, currently residing and working in Slovenia as a researcher at the University of Maribor, Faculty of Mechanical Engineering. Concurrently, I am pursuing my Ph.D. In the initial phase of my career, I served as a precision mechanical design engineer.
+Hello 👋, I'm Emre from Turkey. I completed my bachelor's and master's studies at Middle East Technical University in the Department of Mechanical Engineering. I am currently residing and working in Slovenia as a researcher at the University of Maribor, Faculty of Mechanical Engineering. Concurrently, I am pursuing my Ph.D. In the initial phase of my career, I worked as a precision mechanical design engineer.
 
 During my master's studies, I focused on the construction of a high-precision Additive Manufacturing Machine, showcasing my dedication to pushing the boundaries of engineering. My passion lies in the  design and construction of electro-mechanical systems.
 
